@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+         <title>Resume - CHANDANA R POOJAR</title>
+         
+    </head>
+    <body>
+        
+            <img src="IMG_20240820_112025_136.jpg"alt="img"width="100px"hight="100px">
+
+
+        
+         <div>
+                    <h1>CHANDANA R POOJAR</h1>
+                    
+                    <div >
+                        <div>Email :chandanrpoojar05@gmail.com</div>
+                        <div>Phonr :7338294210</div>
+                        <div>LinkedIn : linkedin.com/in/chandanarpoojar</div>
+                        
+                    </div>
+            
+            
+            <h2>Education</h3>
+                <ul>
+                    <li>MCA - Bangalore city university(2023-present)</li>
+                    <li>BCA - Davanagere university(2020-2023)</li>
+                    <li>Puc - S.D.M pu college ujire (2018-2020)</li>
+                    <li>S.J.M english medium high scool ramagir(2017-2018) </li>
+                </ul>
+            
+
+             <h2>Skills</h2>
+             <ul>
+                <li>Web : HTML,CSS,JavaScript</li>
+                <li>Programming :Java,c,c++</li>
+                <li>database :MySQL</li>
+                <li>Tools : Git</li>
+             </ul>
+             
+
+             <h2>Projects</h2>
+             <ul>
+                <li><b>on road vechil breakdown assitence</b></li>
+                <li><b>Agri Smart Project </b>using python</li>
+             </ul>
+            
+             <h2>Internship</h2>
+             <ul>
+                <li>Software Developer Intern at X-workz(present)</li>
+             </ul>
+            
+             <h2>Personal Details</h2>
+             <p>Date of Birth :o5/09/2002</p>
+             <p>Languages :Kannada,English,hindi</p>
+             <p>place:banglore</p>
+             
+            </div>
+            
+
+    </body>
+</html>
